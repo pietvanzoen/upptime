@@ -10,8 +10,6 @@ sites:
     url: https://emergencyfrida.com/-/f6c41a8bfc
   - name: pietvanzoen.com
     url: http://pietvanzoen.com
-    expectedStatusCodes:
-      - 304
   - name: fathom.piet.me
     url: https://fathom.piet.me
 
