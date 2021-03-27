@@ -12,6 +12,8 @@ sites:
     url: http://pietvanzoen.com
   - name: fathom.piet.me
     url: https://fathom.piet.me
+  - name: wibble.piet.me
+    url: https://wibble.piet.me
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
