@@ -12,7 +12,7 @@ sites:
     url: http://pietvanzoen.com
   - name: fathom.piet.me
     url: https://fathom.piet.me
-  - name: wibble.piet.me
+  - name: wobble.piet.me
     url: https://wibble.piet.me
 
 status-website:
